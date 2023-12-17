@@ -1,0 +1,34 @@
+.block{
+    font-size: large;
+   
+}
+
+.border1{
+   width: 10px;
+}
+
+.input{
+    margin: 5px 0;
+    padding: 5px ;
+    border-radius: 5px ;
+    border-width: 0;
+}
+
+button{
+    width: max-content;
+    margin-top: 10px ;
+    color: white;
+}
+
+.alingment span{
+    display: flex;
+    
+    width: max-content;
+    margin: 5px ;
+
+}
+
+.seprate{
+    display: flex;
+  
+}
